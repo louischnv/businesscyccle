@@ -1,1 +1,99 @@
-theme: minima
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse et Solutions pour Antoine et Margot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style: disc inside;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Analyse et Solutions pour Antoine Blanco et Margot Cego</h1>
+    </header>
+    <main>
+        <h2>Introduction</h2>
+        <p>Antoine Blanco et Margot Cego connaissent une chute significative de leur business, particulièrement en octobre, le pire mois depuis un an et demi. Cette analyse vise à comprendre les raisons de cette baisse et à proposer des solutions concrètes.</p>
+
+        <h2>1. Évolution de l'industrie du High Ticket</h2>
+        <ul>
+            <li><strong>Définition :</strong> Offres coûteuses (à partir de 1 000 €, souvent plusieurs milliers).</li>
+            <li><strong>Historique :</strong> Transition des e-books aux formations vidéo, puis à l’accompagnement, désormais saturé.</li>
+            <li><strong>Tendances actuelles :</strong> Retour vers des événements physiques comme les masterminds.</li>
+            <li><strong>Raisons de la transition :</strong> Saturation des formations vidéo, besoin de suivi, maximisation des résultats.</li>
+        </ul>
+
+        <h2>2. Facteurs contribuant à la baisse</h2>
+        <ol>
+            <li><strong>Concurrence accrue :</strong> Saturation du marché High Ticket.</li>
+            <li><strong>Croissance ralentie :</strong> Stabilisation après une forte croissance initiale.</li>
+            <li><strong>Sophistication du marché :</strong> Promesses agressives moins convaincantes.</li>
+        </ol>
+
+        <h2>3. Solutions proposées</h2>
+        <h3>Optimisation</h3>
+        <ul>
+            <li>Augmenter les budgets publicitaires, diversifier les créations.</li>
+            <li>Tester différentes vidéos de vente (VSL).</li>
+            <li>Accroître la régularité des lancements.</li>
+        </ul>
+
+        <h3>Changements profonds</h3>
+        <ul>
+            <li>Créer un produit d’appel à faible coût pour attirer des prospects qualifiés.</li>
+            <li>Proposer des offres Premium haut de gamme (10 000 € à 20 000 €).</li>
+            <li>Repositionner avec une promesse moins agressive, mieux adaptée au marché actuel.</li>
+        </ul>
+
+        <h3>Contenu et collaborations</h3>
+        <ul>
+            <li>Diversifier les formats de contenu.</li>
+            <li>Investir dans des collaborations ou expériences originales.</li>
+        </ul>
+
+        <h3>Événements physiques</h3>
+        <p>Introduire des interactions physiques (ateliers, cadeaux) pour renforcer l’expérience client.</p>
+
+        <h2>Conclusion</h2>
+        <p>Le business fonctionne par cycles, et leur situation actuelle est normale. Avec des optimisations et des changements stratégiques, Antoine et Margot peuvent relancer leur croissance.</p>
+    </main>
+    <footer>
+        <p>Analyse réalisée pour une compréhension approfondie des enjeux des business High Ticket.</p>
+    </footer>
+</body>
+</html>
